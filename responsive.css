@@ -23,3 +23,28 @@
         background-color: aquamarine;
     }
 }
+@media(max-width:1400px) {
+    .item {
+        width: 23.26%;
+    }
+}
+@media(max-width:1200px) {
+    .item {
+        width: 22.60%;
+    }
+}
+@media(max-width:992px) {
+    .item {
+        width: 46%;
+    }
+}
+@media(max-width:768px) {
+    .item {
+        width: 46%;
+    }
+}
+@media(max-width:576px) {
+    .item {
+        width: 100%;
+    }
+}
