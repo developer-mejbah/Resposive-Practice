@@ -6,6 +6,8 @@
 }
 .map-video {
     display: flex;
+    height: 75vh;
+    background-color: chocolate;
 }
 .map {
     width: 50%;

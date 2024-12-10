@@ -1,0 +1,25 @@
+@media(max-width:1400px) {
+.map-video {
+    background-color: black;
+}
+}
+@media(max-width:1200px) {
+    .map-video {
+        background-color: chocolate;
+    }
+}
+@media(max-width:992px) {
+    .map-video {
+        background-color: brown;
+    }
+}
+@media(max-width:768px) {
+    .map-video {
+        background-color: blueviolet;
+    }
+}
+@media(max-width:576px) {
+    .map-video {
+        background-color: aquamarine;
+    }
+}
